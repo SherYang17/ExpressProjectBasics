@@ -3,7 +3,7 @@ Taking a bunch of Express basics tutorials and just mashing it all together and 
 
 
 When running get for /users, you will see a list of hard coded users from an array. Will utilize mongodb or a free db soon.
-![image](https://github.com/SherYang17/ExpressBasic/assets/127764182/24e82aa3-06c2-41d6-9e88-4cbca849c356)
+![image](https://github.com/SherYang17/ExpressProjectBasics/assets/127764182/c9a26d9b-597a-4ec3-abc3-dc14d97745f4)
 
 
 
